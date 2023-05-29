@@ -1,2 +1,2 @@
-# simple shell
-this is a shell in python
+#shell
+it is very simple
